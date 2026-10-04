@@ -1,0 +1,1 @@
+{"name":"Interval takrorlash","short_name":"Takrorlash","start_url":"/","display":"standalone","background_color":"#2d6a4f","theme_color":"#2d6a4f","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}],"share_target":{"action":"/","method":"GET","params":{"title":"title","text":"text"}}}
